@@ -1,2 +1,2 @@
-# Fashion-Mnist
-simple code for fashion mnist
+# CNN-Projects
+simple code for tow simple dataset
