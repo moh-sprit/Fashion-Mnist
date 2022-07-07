@@ -1,2 +1,2 @@
 # CNN-Projects
-simple code for tow simple dataset
+simple code and report for tow simple dataset
