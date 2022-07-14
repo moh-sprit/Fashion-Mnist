@@ -1,2 +1,2 @@
 # CNN-Projects
-simple code and report for tow simple dataset
+simple code and report for two simple dataset
